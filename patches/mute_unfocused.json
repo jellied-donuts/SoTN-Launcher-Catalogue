@@ -1,0 +1,1 @@
+{"schema":1,"id":"mute_unfocused","name":"Mute unfocused","version":1,"kind":"built-in-presentation","rules_id":"base-v1","default":false,"apply_phase":"startup","benefit":"Mute output while the game is not focused."}
