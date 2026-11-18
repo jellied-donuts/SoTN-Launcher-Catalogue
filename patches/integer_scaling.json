@@ -1,0 +1,1 @@
+{"schema":1,"id":"integer_scaling","name":"Integer scaling","version":1,"kind":"built-in-presentation","rules_id":"base-v1","default":false,"apply_phase":"frame-boundary","benefit":"Use whole-number display scaling when the window fits."}
