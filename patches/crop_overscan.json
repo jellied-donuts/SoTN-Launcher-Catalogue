@@ -1,0 +1,1 @@
+{"schema":1,"id":"crop_overscan","name":"Crop overscan","version":1,"kind":"built-in-presentation","rules_id":"base-v1","default":false,"apply_phase":"frame-boundary","benefit":"Crop eight native pixels per edge."}
