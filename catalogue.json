@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "patches": [
+    {
+      "id": "integer_scaling",
+      "sha256": "f2e798b9aafbff9a881eaeb1438ba031d00cfddec0a99c4e6273fa06ee149c81"
+    },
+    {
+      "id": "mute_unfocused",
+      "sha256": "136f2463ef28461200f47348a888ab584c003da53bb6b32589f0f972f7acf542"
+    },
+    {
+      "id": "crop_overscan",
+      "sha256": "fe664810386d69b74892c85f1a18bc554dcf3e970b488ca1c6d61e687f63d94e"
+    }
+  ]
+}
